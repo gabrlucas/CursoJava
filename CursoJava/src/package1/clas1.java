@@ -1,5 +1,6 @@
 package package1;
 
-public class classe1 {	
+
+public class clas1 {	
 	
 }
